@@ -1,0 +1,8 @@
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\bin\Release\Ticket Hotlink Maker.exe.config
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\bin\Release\Ticket Hotlink Maker.exe
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\bin\Release\Ticket Hotlink Maker.pdb
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\obj\Release\Ticket_Hotlink_Maker.Form1.resources
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\obj\Release\Ticket_Hotlink_Maker.Properties.Resources.resources
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\obj\Release\Ticket Hotlink Maker.csproj.GenerateResource.cache
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\obj\Release\Ticket Hotlink Maker.exe
+C:\Users\steve.rodriguez\source\repos\Ticket Hotlink Maker\Ticket Hotlink Maker\obj\Release\Ticket Hotlink Maker.pdb

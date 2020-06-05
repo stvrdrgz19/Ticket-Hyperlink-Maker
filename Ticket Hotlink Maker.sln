@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Hotlink Maker", "Ticket Hotlink Maker\Ticket Hotlink Maker.csproj", "{A87FFDA0-CD85-4182-AE83-4FFC21431496}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{A1F3AF27-0278-41A9-8852-2093FB0CB3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87FFDA0-CD85-4182-AE83-4FFC21431496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87FFDA0-CD85-4182-AE83-4FFC21431496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87FFDA0-CD85-4182-AE83-4FFC21431496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87FFDA0-CD85-4182-AE83-4FFC21431496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F3AF27-0278-41A9-8852-2093FB0CB3F6}.Debug|Any CPU.ActiveCfg = Debug
+		{A1F3AF27-0278-41A9-8852-2093FB0CB3F6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815A1F7B-4A67-45BB-8276-8F3A0E28408C}
+	EndGlobalSection
+EndGlobal
